@@ -156,8 +156,7 @@ ui <- fluidPage(
              )),
     
     tabPanel("More",h2(
-               "🌚",
-               span("hey!", style = "color:red")
+               "  ",span("hey!", style = "color:red")
              ))
   ))
 
